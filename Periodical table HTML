@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+
+<html>
+	<link rel="stylesheet" type="text/css" href="Periodiskt system.css" />
+	<meta charset="utf-8" />
+	
+	<title>Periodiska systemet </title>
+	
+	<head></head>
+	
+	
+	<body>
+		<table>
+			<tr>
+				<td class="Alkali Red">H<br><span class="undertext">Hydrogen</span></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Noble Red">He<br><span class="undertext">Helium</span></td>
+			</tr>
+			<tr>
+				<td class="Alkali">Li<br><span class="undertext">Lithium</span></td>
+				<td class="Alkaline">Be<br><span class="undertext">Beryllium</span></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Nonmetals">B<br><span class="undertext">Boron</span></td>
+				<td class="Nonmetals">C<br><span class="undertext">Carbon</span></td>
+				<td class="Nonmetals Red">N<br><span class="undertext">Nitrogen</span></td>
+				<td class="Nonmetals Red">O<br><span class="undertext">Oxygen</span></td>
+				<td class="Nonmetals Red">F<br><span class="undertext">Flourine</span></td>
+				<td class="Noble Red">Ne<br><span class="undertext">Neon</span></td>
+			</tr>
+			<tr>
+				<td class="Alkali">Na<br><span class="undertext">Sodium</span></td>
+				<td class="Alkaline">Mg<br><span class="undertext">Magnesium</span></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Border"></td>
+				<td class="Other">Al<br><span class="undertext">Aluminium</span></td>
+				<td class="Nonmetals">Si<br><span class="undertext">Silicon</span></td>
+				<td class="Nonmetals">P<br><span class="undertext">Phosphorus</span></td>
+				<td class="Nonmetals">S<br><span class="undertext">Sulfur</span></td>
+				<td class="Nonmetals Red">Cl<br><span class="undertext">Chlorine</span></td>
+				<td class="Noble Red">Ar<br><span class="undertext">Argon</span></td>
+			</tr>
+			<tr>
+				<td class="Alkali">K<br><span class="undertext">Potassium</span></td>
+				<td class="Alkaline">Ca<br><span class="undertext">Calcium</span></td>
+				<td class="Transitional">Sc<br><span class="undertext">Scandium</span></td>
+				<td class="Transitional">Ti<br><span class="undertext">Titanium</span></td>
+				<td class="Transitional">V<br><span class="undertext">Vanadium</span></td>
+				<td class="Transitional">Cr<br><span class="undertext">Chromium</span></td>
+				<td class="Transitional">Mn<br><span class="undertext">Manganese</span></td>
+				<td class="Transitional">Fe<br><span class="undertext">Iron</span></td>
+				<td class="Transitional">Co<br><span class="undertext">Cobalt</span></td>
+				<td class="Transitional">Ni<br><span class="undertext">Nickel</span></td>
+				<td class="Transitional">Cu<br><span class="undertext">Copper</span></td>
+				<td class="Transitional">Zn<br><span class="undertext">Zinc</span></td>
+				<td class="Other">Ga<br><span class="undertext">Galium</span></td>
+				<td class="Other">Ge<br><span class="undertext">Germanium</span></td>
+				<td class="Nonmetals">As<br><span class="undertext">Arsenic</span></td>
+				<td class="Nonmetals">Se<br><span class="undertext">Selenium</span></td>
+				<td class="Nonmetals bluetext">Br<br><span class="undertext">Bromine</span></td>
+				<td class="Noble Red">Kr<br><span class="undertext">Krypton</span></td>
+			</tr>
+			<tr>
+				<td class="Alkali">Rb<br><span class="undertext">Rubidium</span></td>
+				<td class="Alkaline">Sr<br><span class="undertext">Strontium</span></td>
+				<td class="Transitional">Y<br><span class="undertext">Yttrium</span></td>
+				<td class="Transitional">Zr<br><span class="undertext">Zirconium</span></td>
+				<td class="Transitional">Nb<br><span class="undertext">Niobium</span></td>
+				<td class="Transitional">Mo<br><span class="undertext">Molybdenum</span></td>
+				<td class="Transitional">Tc<br><span class="undertext">Technetium</span></td>
+				<td class="Transitional">Ru<br><span class="undertext">Ruthenium</span></td>
+				<td class="Transitional">Rh<br><span class="undertext">Rhodium</span></td>
+				<td class="Transitional">Pd<br><span class="undertext">Palladium</span></td>
+				<td class="Transitional">Ag<br><span class="undertext">Silver</span></td>
+				<td class="Transitional">Cd<br><span class="undertext">Cadmium</span></td>
+				<td class="Other">In<br><span class="undertext">Indium</span></td>
+				<td class="Other">Sn<br><span class="undertext">Tin</span></td>
+				<td class="Other">Sb<br><span class="undertext">Antimomy</span></td>
+				<td class="Nonmetals">Te<br><span class="undertext">Tellunium</span></td>
+				<td class="Nonmetals">I<br><span class="undertext">Iodine</span></td>
+				<td class="Noble Red">Xe<br><span class="undertext">Xenon</span></td>
+			</tr>
+			<tr>
+				<td class="Alkali">Cs<br><span class="undertext">Cesium</span></td>
+				<td class="Alkaline">Ba<br><span class="undertext">Berium</span></td>
+				<td class="Transitional">La<br><span class="undertext">Lanthanum</span></td>
+				<td class="Transitional">Hf<br><span class="undertext">Hafnium</span></td>
+				<td class="Transitional">Ta<br><span class="undertext">Tantalum</span></td>
+				<td class="Transitional">W<br><span class="undertext">Tungsten</span></td>
+				<td class="Transitional">Re<br><span class="undertext">Rhenium</span></td>
+				<td class="Transitional">Os<br><span class="undertext">Osmium</span></td>
+				<td class="Transitional">Ir<br><span class="undertext">Iridium</span></td>
+				<td class="Transitional">Pt<br><span class="undertext">Platinum</span></td>
+				<td class="Transitional">Au<br><span class="undertext">Gold</span></td>
+				<td class="Transitional bluetext">Hg<br><span class="undertext">Mercury</span></td>
+				<td class="Other">Tl<br><span class="undertext">Thallium</span></td>
+				<td class="Other">Pb<br><span class="undertext">Lead</span></td>
+				<td class="Other">Bi<br><span class="undertext">Bismuth</span></td>
+				<td class="Other">Po<br><span class="undertext">Polonium</span></td>
+				<td class="Nonmetals">At<br><span class="undertext">Astatine</span></td>
+				<td class="Noble Red">Rn<br><span class="undertext">Radon</span></td>
+			</tr>
+			<tr>
+				<td class="Alkali">Fr<br><span class="undertext">Francium</span></td>
+				<td class="Alkaline">Ra<br><span class="undertext">Radium</span></td>
+				<td class="Transitional">Ac<br><span class="undertext">Actinium</span></td>
+				<td class="Transitional">Rf<br><span class="undertext">Rutherfordium</span></td>
+				<td class="Transitional">Ha<br><span class="undertext">Hahnium</span></td>
+				<td class="Transitional">Sg<br><span class="undertext">Seaborgium</span></td>
+				<td class="Transitional">Bh<br><span class="undertext">Bohrium</span></td>
+				<td class="Transitional">Hs<br><span class="undertext">Hassium</span></td>
+				<td class="Transitional">Mt<br><span class="undertext">Meitnerium</span></td>
+				<td class="Transitional"></td>
+				<td class="Transitional"></td>
+				<td class="Transitional"></td>
+				<td class="Other"></td>
+				<td class="Other"></td>
+				<td class="Other"></td>
+				<td class="Other"></td>
+				<td class="Nonmetals"></td>
+				<td class="Noble"></td>
+			</tr>
+			<tr id="small">
+	   <tr>
+			<td class="Border"></td>
+			<td class="Border"></td>
+			<td class="Border"></td>
+			<td class="Transitional">Ce<br><span class="undertext">Cerium</span></td>
+			<td class="Transitional">Pr<br><span class="undertext">Praseodymium</span></td>
+			<td class="Transitional">Nd<br><span class="undertext">Neodymium</span></td>
+			<td class="Transitional">Pm<br><span class="undertext">Promethium</span></td>
+			<td class="Transitional">Sm<br><span class="undertext">Samarium</span></td>
+			<td class="Transitional">Eu<br><span class="undertext">Europium</span></td>
+			<td class="Transitional">Gd<br><span class="undertext">Gadolinium</span></td>
+			<td class="Transitional">Tb<br><span class="undertext">Terbium</span></td>
+			<td class="Transitional">Dy<br><span class="undertext">Dysprosium</span></td>
+			<td class="Transitional">Ho<br><span class="undertext">Holmium</span></td>
+			<td class="Transitional">Er<br><span class="undertext">Erbium</span></td>
+			<td class="Transitional">Tm<br><span class="undertext">Thulium</span></td>
+			<td class="Transitional">Yb<br><span class="undertext">Ytterbium</span></td>
+			<td class="Transitional">Lu<br><span class="undertext">Lutetium</span></td>
+			<td class="Border"></td>
+	   </tr>    
+	   <tr>
+			<td class="Border"></td>
+			<td class="Border"></td>
+			<td class="Border"></td>
+			<td class="Transitional">Th<br><span class="undertext">Thorium</span></td>
+			<td class="Transitional">Pa<br><span class="undertext">Protactinium</span></td>
+			<td class="Transitional">U<br><span class="undertext">Uranium</span></td>
+			<td class="Transitional">Mp<br><span class="undertext">Neptunium</span></td>
+			<td class="Transitional">Pu<br><span class="undertext">Plutonium</span></td>
+			<td class="Transitional">Am<br><span class="undertext">Americium</span></td>
+			<td class="Transitional">Cm<br><span class="undertext">Curium</span></td>
+			<td class="Transitional">Bk<br><span class="undertext">Berkelium</span></td>
+			<td class="Transitional">Cf<br><span class="undertext">Californium</span></td>
+			<td class="Transitional">Es<br><span class="undertext">Einsteinium</span></td>
+			<td class="Transitional">Fm<br><span class="undertext">Fermium</span></td>
+			<td class="Transitional">Md<br><span class="undertext">Mendelevium</span></td>
+			<td class="Transitional">Lo<br><span class="undertext">Nobelium</span></td>
+			<td class="Transitional">Nr<br><span class="undertext">Lawrencium</span></td>
+			<td class="Border"></td>
+			
+	   </tr>
+		</table>
+		
+		<td
+	</body>
+	
+</html>
