@@ -1,0 +1,59 @@
+td{
+
+	height: 75px;
+	width: 75px;
+	border: 1px solid #000;
+	font-family: Arial;
+	text-align: center;
+	}
+
+.Alkali { 
+	background-color: #bbbbbb;
+}
+.Alkaline{
+	background-color: #50e549;
+}
+	
+.Transitional  {
+	background-color: #fffc00;
+	
+}
+	
+.Other{
+	background-color: #e682b3;
+
+}	
+
+.Nonmetals{
+	background-color: #5cb6c4;
+}	
+
+.Noble{
+	background-color: #d1a066;
+}
+*{
+font-size: 23px;
+}
+	
+#small{
+ height:20px;
+}
+
+.Border{
+ border: none;
+}
+
+.Red{
+	color: #e61c1c; 
+}
+
+.undertext {
+	text-align: center;
+	vertical-align: bottom;
+	font-size: 10px;
+	color: black;
+}
+
+.bluetext {
+	color: blue;
+}
